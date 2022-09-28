@@ -73,7 +73,7 @@ Founder and Coordinator (May 2014 - Dec 2014) Healthy Living, University of Wate
 
 Graduate Student Ambassador (Oct 2013 - Dec 2014) University of Waterloo 
 
-## Typography
+<!-- ## Typography
 
 This is a [link](http://google.com). Something *italics* and something **bold**.
 
@@ -85,7 +85,7 @@ Year | Award | Category
 2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
 2014 | Satellite | Won Best Actor miniseries or television film
 
-Here is a horizontal rule
+Here is a horizontal rule -->
 
 ---
 
