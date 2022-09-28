@@ -10,6 +10,8 @@ Hi! I am currently an International Associate at the National Institute of Stand
 
 I am interested in Category Theory and its applications to quantum computing. I would describe myself as a Computer Scientist and a Category Theorist. 
 
+Keywords: Linearly distributive categories, categorical quantum mechanics
+
 ## Credentials
 
 * Ph.D. in Computer Science (Sep 2021) University of Calgary, Canada
