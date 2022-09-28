@@ -93,5 +93,5 @@ Here is a horizontal rule -->
 
 ---
 
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+<small> This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher) </small>
 
