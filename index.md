@@ -21,7 +21,7 @@ Keywords: Linearly distributive categories, categorical quantum mechanics
 
 ## Teaching
 
-* <font id="sideheading"> Sessional Lecturer </font> (Sep 2021 - Dec 2021) University of British Columbia, Canada <br> CPSC 213 - Introduction to Computer Systems
+* <p id="sideheading"> Sessional Lecturer </p> (Sep 2021 - Dec 2021) University of British Columbia, Canada <br> CPSC 213 - Introduction to Computer Systems
 * Teaching Assistant (Jan 2015 - Apr 2021) University of Calgary, Canada <br>
 CPSC 457 – Operating systems for Dr. Kawash, and Dr. Federl <br>
 CPSC 313 – Computability theory for Dr. Reardon, Dr. Eberly, and Dr. Scheidler  <br>
