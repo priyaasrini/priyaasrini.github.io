@@ -6,13 +6,9 @@ layout: default
 
 <img class="profile-picture" src="20181111.webp">
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
+Hi! I am currently an International Associate at the National Institute of Standards and Technology, USA. I finished my Ph.D. at the University of Calgary under the supervision of <a href= "https://pages.cpsc.ucalgary.ca/~robin/"> Dr. Robin Cockett </a>. 
 
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
-
-## Research Interest
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+I am interested in Category Theory and its applications to quantum computing. I would describe myself as a Computer Scientist and a Category Theorist. 
 
 ## Publications
 
@@ -43,3 +39,6 @@ Here is a blockquote
 
 * Foo Bar: Head of Department, Placeholder Names, Lorem
 * John Doe: Associate Professor, Department of Computer Science, Ipsum
+
+This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+
