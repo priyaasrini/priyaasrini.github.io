@@ -35,10 +35,35 @@ CS 454 – Computer networks for Dr. Karsten <br>
 CS 343 – Concurrent and parallel programming under Dr. Buhr <br>
 
 
-## Publications
+## Publications and Preprints
 
-1. 
-2. 
+ Robin Cockett, Isabelle Jianing, Carlo Maria Scandolo and *Priyaa Srinivasan*, "Extending monotones as Kan extensions". To appear in the conference proceedings of 4th International Conference on Applied Category Theory, 2022 
+
+ Robin Cockett, Cole Comfort, and *Priyaa Srinivasan*. "Dagger linear logic for categorical quantum mechanics". Logical Methods in Computer Science, 17(5), Nov. 2021 
+
+ Robin Cockett and *Priyaa Srinivasan*, "Exponential modalities and Complementarity". To appear in the conference proceedings of Applied Category Theory, 2021 
+  
+ Robin Cockett and *Priyaa Srinivasan*, "Completely positive maps for mixed unitary categories". ArXiv:1905.08877 [math.CT], May. 2019
+
+ Robin Cockett, Cole Comfort, and *Priyaa Srinivasan*, "The category CNOT". Electronic Proceedings in Theoretical Computer Science 266, pp. 258-293, Quantum Phy. and Logic, 2017
+
+ Srinivasan Arunachalam, Vlad Gheorghiu, Tomas Jochym-O'Connor, Michele Mosca, and *Priyaa Srinivasan*. "On the robustness of bucket brigade quantum RAM". New Journal of Physics, 17(12), 123010, Dec. 2015
+
+## Committees
+
+Sponsorship Chair, 6th International Conference on Applied Category Theory (July 2023) <br>
+Co-chair, NIST workshop on Compositional structures for Systems Engineering and Design (Nov 2022) <br>
+Co-organizer, 27th Foundational Methods in Computer Science Workshop (July 2019) <br>
+
+## Service 
+
+Volunteer (Aug 2019 - Apr 2020) Let's Talk Science, University of Calgary <br>
+Garden Leader (May 2019 - Apr 2020) Garden Club, University of Calgary <br>
+Event Coordinator (May 2019 - Apr 2020) Campus Community Kitchen, University of Calgary <br>
+Volunteer (Apr 2016 - Aug 2020) Biodiversity Bee, Brentwood Community Association, Canada <br>
+Vice President Communications (Jan 2016 - Aug 2016) Computer Sci. Grad. Student Association, University of Calgary <br>
+Founder and Coordinator (May 2014 - Dec 2014) Healthy Living, University of Waterloo <br>
+Graduate Student Ambassador (Oct 2013 - Dec 2014) University of Waterloo 
 
 ## Typography
 
@@ -55,15 +80,6 @@ Year | Award | Category
 Here is a horizontal rule
 
 ---
-
-Here is a blockquote
-
-> To a great mind, nothing is little
-
-## References
-
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
 
 This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
 
