@@ -26,7 +26,7 @@ Keywords: Linearly distributive categories, categorical quantum mechanics
 CPSC 457 – Operating systems for Dr. Kawash, and Dr. Federl <br>
 CPSC 313 – Computability theory for Dr. Reardon, Dr. Eberly, and Dr. Scheidler  <br>
 CPSC 411 – Compiler construction for Dr. Cockett <br>
-CPSC 449 – Programming Paradigms for Dr. Cockett <br> <br>
+CPSC 449 – Programming Paradigms for Dr. Cockett <br> 
 In Winter 2016, I was the Head Teaching Assistant of CPSC 457 and effectively trained fellow teaching assistants in kernel programming.
 
 * Teaching Assistant (Sep 2012 - Dec 2014) University of Waterloo, Canada <br>
