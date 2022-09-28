@@ -75,7 +75,7 @@ Graduate Student Ambassador (Oct 2013 - Dec 2014) University of Waterloo
 
 --
 
-<center> *Peace is a disarming concept* </center>
+<center> <i> Peace is a disarming concept :) </i> </center>
 
 <!-- ## Typography
 
