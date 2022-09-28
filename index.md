@@ -10,10 +10,17 @@ Hi! I am currently an International Associate at the National Institute of Stand
 
 I am interested in Category Theory and its applications to quantum computing. I would describe myself as a Computer Scientist and a Category Theorist. 
 
+## Credentials
+
+* Ph.D. in Computer Science (Sep 2021) University of Calgary, Canada
+* SoTL Advancing Graduate Education in STEM (SAGES) certification (Sep 2019 - Apr 2020) University of Calgary, Canada 
+* Masters of Mathematics in Computer Science (Dec 2014) University of Waterloo, Canada
+* Bachelors of Computer Science Engineering (May 2009) Madras Institute of Technology, India
+
 ## Publications
 
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
+1. 
+2. 
 
 ## Typography
 
