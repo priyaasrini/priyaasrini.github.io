@@ -12,8 +12,6 @@ I am interested in Category Theory and its applications to quantum computing. I 
 
 <span id="sideheading"> Keywords: </span> Linearly distributive categories, categorical quantum mechanics
 
-<a href="https://scholar.google.ca/citations?hl=en&user=Ue7tYysAAAAJ">Google Scholar </a>; <a href="https://github.com/priyaasrini">GitHub</a> 
-
 ## Credentials
 
 * Ph.D. in Computer Science (Sep 2021) University of Calgary, Canada
@@ -76,8 +74,9 @@ Founder and Coordinator (May 2014 - Dec 2014) Healthy Living, University of Wate
 Graduate Student Ambassador (Oct 2013 - Dec 2014) University of Waterloo 
 
 ---
-
-<span color=$sideheading> Peace is a disarming concept </span>
+<p style="text-align: center; margin-bottom: 10px">
+<span id="sideheading"> Peace is a disarming concept :) </span>
+</p>
 
 
 <!-- ## Typography

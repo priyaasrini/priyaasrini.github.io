@@ -20,7 +20,7 @@ nav:
    link: "/"
  - name: "CV"
    link: "pvs_cv_2022.pdf"
- - name: "Contact"
-   link: "contact"
+ #- name: "Contact"
+ #  link: "contact"
 
 remote_theme: ankitsultana/researcher@gem
