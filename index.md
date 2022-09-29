@@ -73,9 +73,10 @@ Founder and Coordinator (May 2014 - Dec 2014) Healthy Living, University of Wate
 
 Graduate Student Ambassador (Oct 2013 - Dec 2014) University of Waterloo 
 
-<br>
 
-<center> <i> Peace is a disarming concept :) </i> </center>
+<center> <i> <style color=#FF0F00> Peace is a disarming concept :) </style> </i> </center>
+
+--
 
 <!-- ## Typography
 
@@ -91,5 +92,4 @@ Year | Award | Category
 
 Here is a horizontal rule -->
 
-<small> This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher) </small>
 
