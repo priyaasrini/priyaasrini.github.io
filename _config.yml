@@ -7,7 +7,7 @@ markdown: kramdown
 
 tracking_id: #
 
-footer: yes
+footer: no
 footer_url: "https://github.com/priyaasrini"
 footer_text: "Peace is a disarming concept :)"
 
