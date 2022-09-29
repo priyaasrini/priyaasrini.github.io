@@ -73,9 +73,6 @@ Founder and Coordinator (May 2014 - Dec 2014) Healthy Living, University of Wate
 
 Graduate Student Ambassador (Oct 2013 - Dec 2014) University of Waterloo 
 
-
-<center> <i> <style color=#FF0F00> Peace is a disarming concept :) </style> </i> </center>
-
 --
 
 <!-- ## Typography
