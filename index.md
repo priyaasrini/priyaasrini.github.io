@@ -37,6 +37,8 @@ CS 343 – Concurrent and parallel programming under Dr. Buhr <br>
 
 ## Publications and Preprints
 
+<small> (Authors are arranged alphabetically by their last name which is standard in Mathematics) </small>
+
  Robin Cockett, Isabelle Jianing, Carlo Maria Scandolo and *Priyaa Srinivasan*, "Extending monotones as Kan extensions". To appear in the conference proceedings of 4th International Conference on Applied Category Theory, 2022 
 
  Robin Cockett, Cole Comfort, and *Priyaa Srinivasan*. "Dagger linear logic for categorical quantum mechanics". Logical Methods in Computer Science, 17(5), Nov. 2021 
