@@ -7,9 +7,9 @@ markdown: kramdown
 
 tracking_id: #
 
-footer: no
-footer_url: "https://github.com/priyaasrini"
-footer_text: "Peace is a disarming concept :)"
+footer: yes
+footer_url: "https://github.com/ankitsultana/researcher/blob/gh-pages/README.md"
+footer_text: "Website theme"
 
 sass:
     style: compressed
