@@ -7,6 +7,7 @@ is_contact: true
 
 * [Google Scholar](https://scholar.google.com/citations?hl=en&user=Ue7tYysAAAAJ)
 
--
+---
 
 This is a jekyll based resume template. You can find the full source code on GitHub
+
