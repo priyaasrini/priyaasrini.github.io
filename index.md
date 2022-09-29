@@ -51,27 +51,19 @@ CS 343 – Concurrent and parallel programming under Dr. Buhr <br>
 
 ## Committees
 
-Sponsorship Chair, 6th International Conference on Applied Category Theory (July 2023) 
-
-Co-chair, NIST workshop on Compositional structures for Systems Engineering and Design (Nov 2022) 
-
-Co-organizer, 27th Foundational Methods in Computer Science Workshop (July 2019) 
+* Sponsorship Chair, 6th International Conference on Applied Category Theory (July 2023) 
+* Co-chair, NIST workshop on Compositional structures for Systems Engineering and Design (Nov 2022) 
+* Co-organizer, 27th Foundational Methods in Computer Science Workshop (July 2019) 
 
 ## Service 
 
-Volunteer (Aug 2019 - Apr 2020) Let's Talk Science, University of Calgary 
-
-Garden Leader (May 2019 - Apr 2020) Garden Club, University of Calgary 
-
-Event Coordinator (May 2019 - Apr 2020) Campus Community Kitchen, University of Calgary 
-
-Volunteer (Apr 2016 - Aug 2020) Biodiversity Bee, Brentwood Community Association, Canada 
-
-Vice President Communications (Jan 2016 - Aug 2016) Computer Sci. Grad. Student Association, University of Calgary 
-
-Founder and Coordinator (May 2014 - Dec 2014) Healthy Living, University of Waterloo 
-
-Graduate Student Ambassador (Oct 2013 - Dec 2014) University of Waterloo 
+* Volunteer (Aug 2019 - Apr 2020) Let's Talk Science, University of Calgary 
+* Garden Leader (May 2019 - Apr 2020) Garden Club, University of Calgary 
+* Event Coordinator (May 2019 - Apr 2020) Campus Community Kitchen, University of Calgary 
+* Volunteer (Apr 2016 - Aug 2020) Biodiversity Bee, Brentwood Community Association, Canada 
+* Vice President Communications (Jan 2016 - Aug 2016) Computer Sci. Grad. Student Association, University of Calgary 
+* Founder and Coordinator (May 2014 - Dec 2014) Meet and Eat, University of Waterloo 
+* Graduate Student Ambassador (Oct 2013 - Dec 2014) University of Waterloo 
 
 ---
 
