@@ -12,6 +12,8 @@ I am interested in Category Theory and its applications to quantum computing. I 
 
 <span id="sideheading"> Keywords: </span> Linearly distributive categories, categorical quantum mechanics
 
+<a href="https://github.com/priyaasrini">GitHub</a> | <a href="https://scholar.google.ca/citations?hl=en&user=Ue7tYysAAAAJ">Google Scholar </a>
+
 ## Credentials
 
 * Ph.D. in Computer Science (Sep 2021) University of Calgary, Canada
